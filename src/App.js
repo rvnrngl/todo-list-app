@@ -91,7 +91,7 @@ function App() {
     <div className="min-h-screen w-screen bg-[#222831] flex justify-center items-center p-4">
       <div className=" bg-[#EEEEEE] w-full min-w-[250px] max-w-[450px] flex flex-col items-center justify-center rounded-lg overflow-hidden p-5">
         <h1 className="w-full p-5 text-black text-center text-2xl font-bold">
-          Todo App
+          Todo-List App
         </h1>
         <form
           onSubmit={createTodo}
